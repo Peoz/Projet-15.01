@@ -1,0 +1,260 @@
+body {
+  padding-top: 10px;
+  background-color: rgb(85,83,81);
+  color: white;
+}
+#bandeau
+{
+	text-align: center;
+	margin-bottom: 5%;
+}
+footer {
+  background-color: grey;
+  line-height: 40px;
+  text-align: center;
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#t1
+{
+	height: 100%;
+	font-size: medium;
+	font-family: Impact, Arial;
+	border-top: : 10px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 1px solid black;
+  	border-radius: 10px;
+  	line-height: 40px;
+  	margin-bottom: 40px;
+  	margin-right: 10px;
+
+}
+#t2
+{
+  	background-color: rgb(85,83,81);
+	height: 100%;
+	border-top: : 10px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 1px solid black;
+  	border-radius: 10px;
+  	line-height: 40px;
+}
+
+#section1
+{
+	height: 1000px;
+}
+#section2
+{
+	height: 100%;
+	border-top: : 10px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 1px solid black;
+  	border-radius: 10px;
+  	line-height: 40px;
+
+}
+#sm1
+{
+	height: 100%;
+	color: black;
+	border-top: : 10px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 1px solid black;
+  	border-radius: 10px;
+  	line-height: 40px;
+  	margin-right: 10px;
+}
+#menu
+{
+	height: 10%;
+	size: 10%;
+}
+#photo
+{
+	height: 100%;
+	float: right;
+}
+}
+#sm2
+{
+	height: 100%;
+	color: black;
+	border-top: : 10px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 1px solid black;
+  	border-radius: 10px;
+  	line-height: 40px;
+  	margin-right: 10px;
+}
+#oui
+{
+	height: 460px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	color: black;
+	border-top: : 10px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 1px solid black;
+  	border-radius: 10px;
+  	line-height: 40px;
+}
+
+#ouioui
+{
+	height: 230px;
+	color: black;
+	border-top: : 10px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 1px solid black;
+  	border-radius: 10px;
+  	line-height: 40px;
+  	margin-right: 2px;
+}
+#topbar
+{
+	background-color: black;
+	height: 35%;
+	font-family: Impact, Arial;
+	font-size: x-large;
+	margin-bottom: 30px;
+	border-top: : 3px solid white;
+	border-radius: 10px;
+	color: white;
+}
+.titres
+{
+	font-size: x-large;
+	color: rgb(255,128,0);
+	font-family: Impact, Arial;
+}
+.texte
+{
+	font-size: small;
+	font-family: Verdana,Arial;
+	color:white;
+	height: 100%;
+}
+#billeterie
+{
+	height: 130px;
+}
+#img1{
+	height: 100%;
+	float: left;
+	width: 100%;
+}
+#ofplg
+{
+	height: 100px;
+}
+#affichedwl
+{
+	height: 1400px;
+}
+#bas1
+{
+	margin-right: 10px;
+	border-top: : 10px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 1px solid black;
+  	border-radius: 10px;
+  	line-height: 40px;
+}
+}
+
+#basbandeau
+{
+	height: 100%;
+	border-top: : 10px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 1px solid black;
+  	border-radius: 10px;
+  	line-height: 40px;
+}
+}
+
+#affiche
+{
+	height: 100%;
+	width: 100%;
+}
+.textept
+{
+	font-size: x-small;
+	font-family: Verdana,Arial;
+	color:white;
+	height: 100%;
+	text-align: center;
+}
+.titrespt
+{
+	font-size: large;
+	color: rgb(255,128,0);
+	font-family: Impact, Arial;
+	text-align: center;
+}
+.imgpt
+{
+	height: 80%;
+	text-align: center;
+
+}
+#bas2
+{
+	border-top: : 10px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 1px solid black;
+  	border-radius: 10px;
+  	line-height: 40px;
+}
+.minititre
+{
+	color: rgb(255,128,0);
+	font-size: small;
+	font-family: Impact, Arial;
+	text-align: left;
+}
+.minitexte
+{
+	font-size: x-small;
+	font-family: Verdana, Arial;
+	color: white;
+	text-align: left;
+}
+#reseauxS
+{
+	margin-top: 10px;
+	border-top: 1px solid black;
+}
+#res1
+{
+	margin-bottom: 10px;
+}
+#miniimage
+{
+	float: left;
+}J
+#iconesres
+{
+
+}
+
+.mentions
+{
+	text-align: center;
+}
